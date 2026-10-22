@@ -1,6 +1,6 @@
 # Plane plugins
 
-Plugin marketplaces for the Plane workflow skills. Generated from [retronew/plane@241757904ee3aee734ffe9a559ffa8a6dfb3b4b6](https://github.com/retronew/plane/commit/241757904ee3aee734ffe9a559ffa8a6dfb3b4b6) by `plugins/plane-workflow/portable/export.mjs`. Do not edit this repository directly; change the source repository instead.
+Plugin marketplaces for the Plane workflow skills. Generated from [retronew/plane@6a65c26c60bb29b976ffb2026b1ee7abc32c5c6e](https://github.com/retronew/plane/commit/6a65c26c60bb29b976ffb2026b1ee7abc32c5c6e) by `plugins/plane-workflow/portable/export.mjs`. Do not edit this repository directly; change the source repository instead.
 
 | Client | Install |
 | --- | --- |
