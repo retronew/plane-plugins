@@ -1,0 +1,16 @@
+{
+  "name": "plane-ai",
+  "owner": {
+    "name": "Moondrop",
+    "url": "https://github.com/retronew/plane"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for working with our Plane instance"
+  },
+  "plugins": [
+    {
+      "name": "plane-workflow",
+      "source": "./plugins/plane-workflow"
+    }
+  ]
+}
